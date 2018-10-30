@@ -7,10 +7,10 @@ In this study, three different regions, namely Hindukush, Chile, Southern Califo
 Earthquake catalogs of these regions have been obtained from United States Geological Survey (USGS) for the period from January 1980 to December 2016.
 
 In this project, features are also referred as seismic parameters. These seismic parameters are calculated mathematically and are based upon well-known geophysical and seismological facts. Some of the features are listed below as an example.
--Seismic energy release
--Time of n events
--Seismic rate changes
--Probability of earthquake occurrence
--Deviation from Gutenberg-Richer law
+1) Seismic energy release
+2) Time of n events
+3) Seismic rate changes
+4) Probability of earthquake occurrence
+5) Deviation from Gutenberg-Richer law
 
 Many other parametric and non parametric features have been used to build the earthquake prediction model.
